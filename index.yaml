@@ -9,6 +9,6 @@ entries:
     name: helloworld
     type: application
     urls:
-    - https://JUNWSGJ.github.io/helm-chart/helloworld-0.1.0.tgz
+    - https://junwsgj.github.io/helm-chart/helloworld-0.1.0.tgz
     version: 0.1.0
 generated: "2022-04-09T22:56:45.512045+08:00"
